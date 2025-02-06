@@ -27,3 +27,5 @@ git tag -d v1.7
 ### Delete a Tag Remotely
 git push origin :v1.7
 
+---
+![a girl's face](images/1.jpeg)
