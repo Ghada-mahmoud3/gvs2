@@ -13,7 +13,7 @@ git push origin : test
 ---
 ## 2. How to Check Out Another Branch Without Committing Changes
 
-####Stash Your Changes
+### Stash Your Changes
 git stash
 git checkout dev
 ---
