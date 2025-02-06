@@ -11,11 +11,13 @@ git push origin :delete dev
 git push origin : test
 
 ---
+
 ## 2. How to Check Out Another Branch Without Committing Changes
 
 ### Stash Your Changes
 git stash
 git checkout dev
+
 ---
 ## 5. How to Delete a Tag Locally and Remotely
 
